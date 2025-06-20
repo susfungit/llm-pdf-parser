@@ -1,0 +1,9 @@
+{
+  "fields_to_extract": [
+    "Invoice Number",
+    "Invoice Date",
+    "Customer Name",
+    "Total Amount",
+    "Due Date"
+  ]
+}
